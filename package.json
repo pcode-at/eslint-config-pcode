@@ -1,6 +1,6 @@
 {
   "name": "@pcode_at/eslint-config-pcode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint and Prettier configuration for pcode projects",
   "main": "index.js",
   "keywords": [
